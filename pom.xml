@@ -17,6 +17,7 @@
         <module>coordination</module>
         <module>theory</module>
         <module>storage</module>
+        <module>scheduling</module>
     </modules>
 
 
